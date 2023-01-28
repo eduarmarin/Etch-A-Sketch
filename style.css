@@ -16,6 +16,10 @@
     text-align: center;
     cursor: pointer;
   }
+  .grid-item.show {
+    background-color: black;
+    opacity: 30%;
+  }
   .grid-item:hover{
     background-color: black;
    }
