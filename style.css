@@ -17,8 +17,7 @@
     cursor: pointer;
   }
   .grid-item.show {
-    background-color: black;
-    opacity: 30%;
+    background-color: blue;
   }
   .grid-item:hover{
     background-color: black;
